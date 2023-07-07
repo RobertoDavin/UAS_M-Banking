@@ -26,6 +26,7 @@ class _TransaksiMenuState extends State<TransaksiMenu> {
         ),
       ),
       child: Scaffold(
+        resizeToAvoidBottomInset: false,
         body: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
