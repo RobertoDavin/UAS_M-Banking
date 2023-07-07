@@ -204,7 +204,7 @@ class Register extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   SizedBox(
-                      height: 147,
+                      height: 185,
                       child: Image.asset('assets/logo/Moneyysignup.png')),
                 ],
               ),
