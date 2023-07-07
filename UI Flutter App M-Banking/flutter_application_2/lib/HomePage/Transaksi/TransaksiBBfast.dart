@@ -26,6 +26,7 @@ class _TransaksiBBfastState extends State<TransaksiBBfast> {
         ),
       ),
       child: Scaffold(
+        resizeToAvoidBottomInset: false,
         body: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
